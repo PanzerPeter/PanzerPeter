@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PanzerPeter
-- 👀 I’m interested in Python, ML and webapps
-- 🌱 I’m currently learning Python and C++
+- 👀 I’m interested in Machine Learning and Webapps
+- 🌱 I can code in: Python, Rust, TypeScript, C/C++
 - 😄 Pronouns: He / Him
 
 <!---
