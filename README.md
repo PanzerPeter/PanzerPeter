@@ -1,5 +1,7 @@
 # 💫 About Me:
-Machine Learning Engineer with a strong focus on practical AI systems, model training, and intelligent tooling. I build fast, clean, and scalable web interfaces using React, Vite, TypeScript, and TailwindCSS, and I’m equally comfortable working deeper in Rust, Python, and the occasional C++ when performance demands it.<br>I like turning complex problems into simple architectures and training models on my own hardware — mostly because it’s faster and definitely more fun. Always improving, always experimenting, and always building something new.
+Machine Learning Engineer with a strong focus on practical AI systems, model training, and intelligent tooling. 
+I build fast, clean, and scalable web interfaces using React, Vite, TypeScript, and TailwindCSS. And I’m equally comfortable working deeper in Rust, Python, and the occasional C++ when performance demands it.<br>I like turning complex problems into simple architectures and training models on my own hardware.
+Mostly because it’s faster and definitely more fun. Always improving, always experimenting, and always building something new.
 
 
 # 💻 Tech Stack:
